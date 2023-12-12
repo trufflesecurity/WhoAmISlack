@@ -1,4 +1,4 @@
-# getslackworkspace
+# WhoAmISlack
 Simple Command Line Tool to Enumerate Slack Workspace Names from Slack Webhook URLs.
 
 You need a Slack OAuth User Token with team:read privs to enumerate a workspace name. These are free and easy to create.

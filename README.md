@@ -13,10 +13,10 @@ You need a Slack OAuth User Token with team:read privs to enumerate a workspace 
 pip install requests
 ```
 
-2. Run the `getslackworkspace.py` script.
+2. Run the `whoamislack.py` script.
 
 ```
-python3 getslackworkspace.py --token <TOKEN_VALUE> https://hooks.slack.com/T234DSLKJ/BSDFJWEK23/e9Wi324jlkasdf
+python3 whoamislack.py --token <TOKEN_VALUE> https://hooks.slack.com/T234DSLKJ/BSDFJWEK23/e9Wi324jlkasdf
 ```
 
 The script takes one (or two) command line arguments. 
